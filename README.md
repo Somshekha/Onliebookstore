@@ -1,7 +1,7 @@
 ### About
 
 A user-friendly Online Bookstore project in which users can log in or register, view the available books, select books along with their quantity, and buy them. Users can also get payment receipts after successful payment. The project can also be used by the administrator, who can add new books, remove books, increase and decrease the quantity of books, change the price of the books as well as maintain the selling history of books.
-file:///C:/Users/somsh/git/onlinebookstore/WebContent/Photo.jpg
+https://github.com/Somshekha/Onliebookstore/blob/4b6b596385156c6e9985327e9dfdc3da7736ac7d/Photo.jpg
 
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - For Selling books online.
